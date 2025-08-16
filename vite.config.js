@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base:"/Refokus-clone",
+  base:"/Refokus-clone/",
 })
